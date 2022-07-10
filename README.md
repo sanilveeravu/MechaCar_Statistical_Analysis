@@ -1,5 +1,11 @@
 # MechaCar_Statistical_Analysis
 
+# Overview
+
+MechaCar is doing a study for its new cars to predict its fuel efficiency, production effectiveness and competition. This project details the analysis of these key metrics to help management decide on its next steps.
+
+# Results
+
 ## Linear Regression to Predict MPG
 
 With the intent of predicting MPG, below is the linear regression based on its attributes.
@@ -63,3 +69,7 @@ Cost per horsepower:
  - Null Hypothesis: Cost per horsepower is not a factor for consumers purchase cars. Alternative Hypothesis: Cost per horsepower is a key factor for consumers to purcahse cars.
  - Multiple linear regression would be used to see data based on multiple attributes.
  - Car sales with cost and horsepower. 
+
+# Summary
+
+The above details provide clear opportunties for some of the key metrics to be looked at. It also provides many areas to continue looking at like safety rating, maintenance cost, car features to have good data to backup the upcoming strategy.
